@@ -1,0 +1,39 @@
+.container{
+    border-top:solid 4px;
+    border-bottom: solid 4px;
+    border-left: solid 4px;
+    border-right:solid 3px;
+}
+.navbar{
+    padding-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-brand{
+    font-size: 40px;    
+    color: #000000;
+}
+
+.row#header{
+    background-color: #A9A9A9;
+    font-weight: bold;
+}
+
+.col{
+    width:5%;
+    height:5%;
+    border-right:solid 2px;
+    text-align: center;
+}
+
+.row#pintar{
+    background-color: #D3D3D3;
+}
+
+.col#numeros{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+
